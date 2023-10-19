@@ -1,5 +1,5 @@
 Git
-Students:
+Students:  Stuents to Git Clone
 Create a github account for the practical projects.
 Create a repository for every project.
 Add the instructor as a collaborator.
